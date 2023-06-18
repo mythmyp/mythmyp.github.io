@@ -4,4 +4,4 @@
 
 A personal blog using [VuePress2](https://vuejs.press/) and [VuePress Theme Hope](https://theme-hope.vuejs.press/)
 
-## [博客地址]([https://mrhope.site](https://mythmyp.github.io)) | [Blog link](https://mythmyp.github.io)
+## [博客地址](https://mythmyp.github.io) | [Blog link](https://mythmyp.github.io)
