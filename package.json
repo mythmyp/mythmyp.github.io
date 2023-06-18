@@ -1,0 +1,28 @@
+{
+  "name": "myp-blog",
+  "version": "1.0.0",
+  "description": "myp-blog",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:dev": "vuepress dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.63",
+    "nodejs-jieba": "^0.0.2",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.63",
+    "vuepress-plugin-auto-catalog": "2.0.0-beta.226",
+    "vuepress-plugin-blog2": "^2.0.0-beta.226",
+    "vuepress-plugin-components": "^2.0.0-beta.226",
+    "vuepress-plugin-copy-code2": "^2.0.0-beta.226",
+    "vuepress-plugin-lightgallery": "^2.0.0-beta.226",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.226",
+    "vuepress-plugin-reading-time2": "^2.0.0-beta.226",
+    "vuepress-plugin-search-pro": "^2.0.0-beta.226",
+    "vuepress-theme-hope": "2.0.0-beta.226"
+  }
+}
