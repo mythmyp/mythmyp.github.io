@@ -4,6 +4,7 @@ import { cut } from "nodejs-jieba";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
+  dest: "dist",
   base: "/",
 
   lang: "zh-CN",
