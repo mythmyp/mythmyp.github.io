@@ -17,6 +17,10 @@ export default navbar([
         text: "个人电脑配置",
         link: "compBasic/pcConfig/",
       },
+      {
+        text: "工具学习",
+        link: "compBasic/tools/",
+      },
     ],
   },
   {
@@ -26,5 +30,4 @@ export default navbar([
 
     ],
   },
-  "/demo/",
 ]);

@@ -4,6 +4,7 @@ icon: apple
 tag:
   - mac
   - apple
+editLink: false
 ---
 ## appleID
 
